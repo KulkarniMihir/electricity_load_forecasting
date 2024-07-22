@@ -26,7 +26,14 @@ Electricity load forecasting is crucial for efficient power system planning and 
 | Decision Tree  | 144.59071017814625  | 0.39543998701322347 |
 | GRU | 62.62243814978686 | 0.7157002840478517 |
 
+# Future Scope
 
+1. Model Improvements
+   a. Test Foundational time-series models
+2. Incorporate Additional Features
+3. Real-time Forecasting & Tracking
+4. Add dynamic pricing based on consumption
+5. Deployment
 
 
 
