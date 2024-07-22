@@ -28,8 +28,7 @@ Electricity load forecasting is crucial for efficient power system planning and 
 
 # Future Scope
 
-1. Model Improvements
-   a. Test Foundational time-series models
+1. Model Improvements - Foundational time-series models
 2. Incorporate Additional Features
 3. Real-time Forecasting & Tracking
 4. Add dynamic pricing based on consumption
